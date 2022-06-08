@@ -1,0 +1,3 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/mostafakamal22/MERN-login-JWT.git
